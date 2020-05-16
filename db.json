@@ -7,14 +7,13 @@
 		{
 			"id": 2,
 			"title": "Post 2",
-			"content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+			"content": "Sed ut pe veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 
 		},
 		{
 			"id": 3,
 			"title": "Post 3",
-			"content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-
+			"content": "Sed ut perspiciatis unde"
 		}
 	],
 	"comments": [{
