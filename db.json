@@ -20,19 +20,5 @@
 			"title": "Post 4",
 			"content": "Sed ut perspiciatis wow this is awesome! thank you for making this tutorial and you are indeed a great tutor"
 		}
-	],
-	"comments": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+	]
 }
